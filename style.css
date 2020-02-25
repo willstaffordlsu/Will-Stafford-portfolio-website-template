@@ -1,0 +1,99 @@
+header {
+    padding: 20px;
+    font-size: 40px;
+    color: white;
+    background-color: #1F003E;
+    font-weight: 600;
+    text-align: center;
+}
+
+#image1 {
+    padding: 20px;
+    height: 350px;
+    width: 350px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image-grid-container {
+    display: flex;
+    justify-content: center;
+    margin-left: 450px;
+    margin-right: 450px;
+
+}
+
+.image-grid {
+    width: 400px;
+    display: flex;
+    justify-content: center;
+}
+
+.image-grid-item {
+    height: 70px;
+    width: 70px;
+}
+
+#skillsHeader {
+    text-align: center;
+    color: #1F003E;
+    font-size: 45px;
+    font-weight: bolder;
+}
+
+li {
+    font-size: 20px;
+    color: #1F003E;
+    font-weight: bold;
+}
+
+.skills {
+    width: 500px;
+    position: relative;
+    bottom: 400px;
+    padding-left: 40px;
+}
+
+.footer {
+    position: fixed;
+    height: 60px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #1F003E;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 17px;
+    font-weight: 600;
+  }
+
+#image2 {
+    height: 35px;
+    width: 35px;
+}
+
+#email {
+    color: white;
+}
+
+button {
+    position: relative;
+    float: right;
+    bottom: 680px;
+    margin-right: 180px;
+    text-align: center;
+}
+
+.repoList {
+    position: relative;
+    float: right;
+    bottom: 650px;
+    color: #1F003E;
+    font-size: 17px;
+    font-weight: bolder;
+}
